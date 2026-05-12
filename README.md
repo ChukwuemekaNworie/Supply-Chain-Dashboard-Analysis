@@ -22,7 +22,7 @@ The project enables stakeholders to monitor operational performance, identify hi
 
 <!--[Supply Chain Dashboard](https://github.com/Power Bi Project/Project Report/images/Image1.jpeg) -->
 
-![Supply Chain Dashboard](https://github.com/PowerBiProject/ProjectReport/images/image_1.jpeg)
+<!--[Supply Chain Dashboard](https://github.com/PowerBiProject/ProjectReport/images/image_1.jpeg) -->
 
 
 ---
