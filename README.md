@@ -20,7 +20,7 @@ This project focuses on analyzing supply chain operations, product performance, 
 
 The project enables stakeholders to monitor operational performance, identify high-performing products and suppliers, optimize inventory levels, and improve supply chain decision-making through data-driven insights.
 
-![Supply Chain Dashboard](https://github.com/Power Bi Project/Project Report/images/Image1.jpeg)
+<!--[Supply Chain Dashboard](https://github.com/Power Bi Project/Project Report/images/Image1.jpeg) -->
 
 ![Supply Chain Dashboard](https://github.com/PowerBiProject/ProjectReport/images/image_1.jpeg)
 
