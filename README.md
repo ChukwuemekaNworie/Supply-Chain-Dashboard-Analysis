@@ -20,7 +20,9 @@ This project focuses on analyzing supply chain operations, product performance, 
 
 The project enables stakeholders to monitor operational performance, identify high-performing products and suppliers, optimize inventory levels, and improve supply chain decision-making through data-driven insights.
 
-![Supply Chain Dashboard](https://github.com/user-attachments/assets/dashboard-image)
+![Supply Chain Dashboard](https://github.com/project image/assets/dashboard-image)
+
+(https://github.com/ChukwuemekaNworie/Supply-Chain-Dashboard-Analysis/edit/main/README.md#:~:text=Screenshot%202026%2D03%2D23%20221231.jpeg)
 
 ---
 
